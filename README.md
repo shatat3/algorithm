@@ -1,0 +1,2 @@
+# algorithm
+quick find algorithm
